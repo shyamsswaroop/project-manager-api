@@ -1,0 +1,22 @@
+{
+  "name": "project-manager-api",
+  "version": "1.0.0",
+  "description": "Repository  to hold the api layer code in express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyamsswaroop/project-manager-api.git"
+  },
+  "author": "Shyam Swaroop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyamsswaroop/project-manager-api/issues"
+  },
+  "homepage": "https://github.com/shyamsswaroop/project-manager-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
