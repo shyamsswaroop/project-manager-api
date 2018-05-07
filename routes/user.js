@@ -13,8 +13,10 @@ router.get('/getAllUsers', function (req, res, next) {
                 });
             }
             res.status(200).json({
-                message: 'Success',
-                obj:  users
+                message: 'All users retrieved successfully',
+                users:  users
+
+
             });
         });
 });
